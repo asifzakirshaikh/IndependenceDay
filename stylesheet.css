@@ -42,3 +42,11 @@ body {
 .text-container > span:nth-child(7) {
     animation-delay: 1.5s;
 }
+
+@media (max-width: 767.98px) {
+
+        body {
+            min-width: 300px;
+        }
+
+}
